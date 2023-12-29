@@ -1,0 +1,4 @@
+mode_name,min_raw_reads,min_corrected_reads,min S:N
+SSU_Strinct,25,5,10
+SSU_Moderate,7,3,5
+SSU_Loose,5,3,3

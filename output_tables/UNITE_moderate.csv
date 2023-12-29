@@ -1,0 +1,2 @@
+,ID,Name,Taxonomy,species group,species id,reference_lib,false_pos_prone,Combined,Min,Max,Mean,Median,Std,sample_abund,control_abund,sample_normalized,control_normalized,normalized_corrected,S:N,sample,control,mode
+7,Aspergillus_fumigatus; SH005555.07FU_KJ123930_reps_singleton,SH005555.07FU_KJ123930_reps_singleton,Fungi; Ascomycota; Eurotiomycetes; Eurotiales; Aspergillaceae; Aspergillus; Aspergillus_fumigatus,Aspergillus_fumigatus, SH005555.07FU_KJ123930_reps_singleton,UNITE,No,7,0,7,0.4375,0.0,1.75,7,0,3.27103,0.0,3.27103,inf,BFTMS23071414,BFTMS23071417,UNITE_moderate
