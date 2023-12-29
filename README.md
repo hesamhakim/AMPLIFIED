@@ -1,7 +1,3 @@
-Certainly! Below is a `README.md` file for your GitHub repository, which includes all the essential details from your text:
-
----
-
 # Automated Amplicon-based NGS Pipeline for Clinical Specimens
 
 ## About
