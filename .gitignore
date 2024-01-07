@@ -1,3 +1,6 @@
+# the report directory is for tableau dashboard and other data presentations
+report
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
