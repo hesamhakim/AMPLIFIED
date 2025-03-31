@@ -1,0 +1,7 @@
+python AMPLIFIED_v2.6_windows.py \
+  --permanent_dir "M:\Microbiology\2- Operation\1- Management Materials, Reports, Projects\Validation\Validation 2023\Targeted Metagenomic Sequencing\Assay Development" \
+  --dynamic_dir "BFTMS\Hesam Test" \
+  --batch_name "batch1_20230720" \
+  --data_dir "data" \
+  --output_dir "output_tables_51" \
+  --config "Python/config.parameters"

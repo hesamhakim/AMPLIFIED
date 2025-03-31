@@ -1,0 +1,90 @@
+[common]
+resid_val = 0.00
+
+[PanBac]
+false_pos_prone_species = Acinetobacter baumannii,Klebsiella oxytoca,Enterobacter cloacae,Citrobacter freundii
+output_modes = strict,moderate,loose
+
+[PanBac_strict]
+yes_abund = 500
+no_abund = 10
+norm_corrected = 1
+sn_threshold = 1000
+
+[PanBac_moderate]
+yes_abund = 300
+no_abund = 10
+norm_corrected = 1
+sn_threshold = 1000
+
+[PanBac_loose]
+yes_abund = 50
+no_abund = 5
+norm_corrected = 1
+sn_threshold = 1000
+
+[SSU]
+false_pos_prone_species = Acinetobacter baumannii,Klebsiella oxytoca,Enterobacter cloacae,Citrobacter freundii
+output_modes = strict,moderate,loose
+
+[SSU_strict]
+yes_abund = 500
+no_abund = 10
+norm_corrected = 1
+sn_threshold = 1000
+
+[SSU_moderate]
+yes_abund = 300
+no_abund = 10
+norm_corrected = 1
+sn_threshold = 1000
+
+[SSU_loose]
+yes_abund = 50
+no_abund = 5
+norm_corrected = 1
+sn_threshold = 1000
+
+[LSU]
+false_pos_prone_species = Enterobacter aerogenes,Saccharomyces cerevisiae,Streptococcus pneumoniae,Klebsiella pneumoniae,Serratia marcescens,Salmonella enterica
+output_modes = strict,moderate,loose
+
+[LSU_strict]
+yes_abund = 150
+no_abund = 50
+norm_corrected = 0
+sn_threshold = 1000
+
+[LSU_moderate]
+yes_abund = 60
+no_abund = 20
+norm_corrected = 0
+sn_threshold = 1000
+
+[LSU_loose]
+yes_abund = 15
+no_abund = 5
+norm_corrected = 3
+sn_threshold = 3
+
+[UNITE]
+false_pos_prone_species = 000000
+output_modes = strict,moderate,loose
+
+[UNITE_strict]
+yes_abund = 1000
+no_abund = 10
+norm_corrected = 0
+sn_threshold = 1000
+
+[UNITE_moderate]
+yes_abund = 1000
+no_abund = 7
+norm_corrected = 3
+sn_threshold = 1000
+
+[UNITE_loose]
+yes_abund = 1000
+no_abund = 4
+norm_corrected = 1.5
+sn_threshold = 3

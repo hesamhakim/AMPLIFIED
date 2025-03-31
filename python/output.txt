@@ -1,0 +1,49 @@
+Starting processing for library type: common
+Required file not found: M:/Microbiology/2- Operation/1- Management Materials, Reports, Projects/Validation/Validation 2023/Targeted Metagenomic Sequencing/Assay Development\BFTMS/Hesam Test\data\batch1_20230720\common\OTU.xlsx. Skipping common.
+Finished processing for library type: common
+
+Starting processing for library type: PanBac
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+C:\ProgramData\spyder-6\envs\spyder-runtime\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+Processing for PanBac completed. Outputs are saved in M:/Microbiology/2- Operation/1- Management Materials, Reports, Projects/Validation/Validation 2023/Targeted Metagenomic Sequencing/Assay Development\BFTMS/Hesam Test\output_tables_5\batch1_20230720\PanBac.
+Finished processing for library type: PanBac
+
+Starting processing for library type: SSU
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+Processing for SSU completed. Outputs are saved in M:/Microbiology/2- Operation/1- Management Materials, Reports, Projects/Validation/Validation 2023/Targeted Metagenomic Sequencing/Assay Development\BFTMS/Hesam Test\output_tables_5\batch1_20230720\SSU.
+Finished processing for library type: SSU
+
+Starting processing for library type: LSU
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+C:\ProgramData\spyder-6\envs\spyder-runtime\Lib\site-packages\openpyxl\styles\stylesheet.py:237: UserWarning: Workbook contains no default style, apply openpyxl's default
+  warn("Workbook contains no default style, apply openpyxl's default")
+Processing for LSU completed. Outputs are saved in M:/Microbiology/2- Operation/1- Management Materials, Reports, Projects/Validation/Validation 2023/Targeted Metagenomic Sequencing/Assay Development\BFTMS/Hesam Test\output_tables_5\batch1_20230720\LSU.
+Finished processing for library type: LSU
+
+Starting processing for library type: UNITE
+Processing for UNITE completed. Outputs are saved in M:/Microbiology/2- Operation/1- Management Materials, Reports, Projects/Validation/Validation 2023/Targeted Metagenomic Sequencing/Assay Development\BFTMS/Hesam Test\output_tables_5\batch1_20230720\UNITE.
+Finished processing for library type: UNITE
+
+Integrated CSV file created at: M:/Microbiology/2- Operation/1- Management Materials, Reports, Projects/Validation/Validation 2023/Targeted Metagenomic Sequencing/Assay Development\BFTMS/Hesam Test\output_tables_5\batch1_20230720\integrated_results.csv
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:133: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  select_IDs = pd.concat([select_IDs, filtered], axis=0)
+\\chla\chlafs\ipt\shared\mac\labshare\microbiology\2- operation\1- management materials, reports, projects\validation\validation 2023\targeted metagenomic sequencing\assay development\bftms\hesam test\python\amplified_v2.6_windows.py:219: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  integrated_df = pd.concat(integrated_data, ignore_index=True)

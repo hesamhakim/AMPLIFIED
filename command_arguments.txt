@@ -1,0 +1,7 @@
+python python/AMPLIFIED_windows.py \
+  --permanent_dir "/Users/hhakimjavadi/Dropbox_UFL_Hesam/microbiology_CHLA_AMPLIFIED/AMPLIFIED/repositories/AMPLIFIED" \
+  --dynamic_dir "" \
+  --batch_name "batch1_20230720" \
+  --data_dir "data" \
+  --output_dir "output_tables_57" \
+  --config "Python/config.parameters"

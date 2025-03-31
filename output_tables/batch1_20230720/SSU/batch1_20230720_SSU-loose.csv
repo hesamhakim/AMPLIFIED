@@ -1,0 +1,2 @@
+ID,Name,Taxonomy,reference_lib,batch,false_pos_prone,Combined,Min,Max,Mean,Median,Std,sample_abund,control_abund,sample_normalized,control_normalized,normalized_corrected,S:N,sample,control,mode
+Corynebacterium tuberculostearicum; AJ438046.1.1512,AJ438046.1.1512,Bacteria; Actinobacteriota; Actinobacteria; Corynebacteriales; Corynebacteriaceae; Corynebacterium; Corynebacterium tuberculostearicum,SSU,batch1_20230720,No,142,0,91,8.875,0.0,22.691775308835282,91,0,5.179902,0.0,5.179902,inf,BFTMS23071404,BFTMS23071417,loose
