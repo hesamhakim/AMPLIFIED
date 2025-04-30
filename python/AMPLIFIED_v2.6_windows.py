@@ -77,7 +77,7 @@ def parse_arguments():
     if args.config is None:
         args.config = os.path.join(project_dir, DEFAULT_CONFIG_SUBDIR)
     else:
-        args.config = os.path.join(project_dir, args.config)
+        args.config = os.path.join(args.permanent_dir, args.config)
 
     return args
 

@@ -9,15 +9,15 @@
 ## change driectory to the location of the Projects
 ## S: ## changes the drive
 ## cd\ ## changes the directory to the root of the drive
-## cd "MAC\Labshare\Microbiology\2- Operation\1- Management Materials, Reports, Projects\Validation\Validation 2023\Targeted Metagenomic Sequencing\Assay Development"
+## cd "MAC\Labshare\Microbiology\2- Operation\1- Management Materials, Reports, Projects\Validation\Validation 2023\Targeted Metagenomic Sequencing\Assay Development\BFTMS\common_resources\python\clc_post_processing"
 
-python BFTMS\common_resources\python\clc_post_processing\AMPLIFIED_v2.6_windows.py ^
+python AMPLIFIED_v2.6_windows.py ^
   --permanent_dir "S:\MAC\Labshare\Microbiology\2- Operation\1- Management Materials, Reports, Projects\Validation\Validation 2023\Targeted Metagenomic Sequencing\Assay Development" ^
   --dynamic_dir "BFTMS\Evaugon Test" ^
   --batch_name "batch8_20250131" ^
   --data_dir "data" ^
-  --output_dir "output_tables_002" ^
-  --config "configs\config.parameters"
+  --output_dir "output_tables_003" ^
+  --config "BFTMS\common_resources\python\clc_post_processing\config.parameters"
 
   ## permanent_dir address in S: "S:\MAC\Labshare\Microbiology\2- Operation\1- Management Materials, Reports, Projects\Validation\Validation 2023\Targeted Metagenomic Sequencing\Assay Development"
   ## permanent_dir address in M:              "M:\Microbiology\2- Operation\1- Management Materials, Reports, Projects\Validation\Validation 2023\Targeted Metagenomic Sequencing\Assay Development" \
